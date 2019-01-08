@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".servicios">
+
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/CHEV"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonMante"
+        android:layout_width="match_parent"
+        android:layout_height="183dp"
+        android:background="@drawable/herr"
+        android:paddingEnd="220dp"
+        android:paddingRight="260dp"
+        android:paddingBottom="100dp"
+        android:text="@string/man"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button6atencio"
+        android:layout_width="match_parent"
+        android:layout_height="193dp"
+        android:background="@drawable/ser"
+        android:paddingEnd="150dp"
+        android:paddingBottom="160dp"
+        android:text="@string/ate"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button5Reservaciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reservaciones" />
+
+    <Button
+        android:id="@+id/button8next2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ayuda" />
+
+
+</LinearLayout>

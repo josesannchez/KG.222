@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\e00366f5cd5767f5c775a9dd53929047\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dc0e5d0915b80256248d77e07626c258\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\959fb080cd3fa55a1c898174591621a1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f1d915a572c6452f86aabcd26cfa3c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1b1f3fd9cbeb7ef3e89235eac2f83789\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5fe5af8e2038e6f1e72abdaecbdfc33b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aa475a7b2966b945e58a59dfb9cc85a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f9f70e56a3b992a54a2cc2c4136711d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2aa64925494af14aa1826c2ab8d2743e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3001a4235bad38b637b36a070595c752\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f7099d726efa486c46014436ba720913\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d3db56afd32773243cb53938edde2ddb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71248e04ae5cf37a7ab429ff04492c24\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:7:5-36:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\e00366f5cd5767f5c775a9dd53929047\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\e00366f5cd5767f5c775a9dd53929047\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\959fb080cd3fa55a1c898174591621a1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\959fb080cd3fa55a1c898174591621a1\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.facci.josesanchezarteaga.KG2.MainActivity
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.facci.josesanchezarteaga.KG2.Login.Registro
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:21:19-49
+activity#com.facci.josesanchezarteaga.KG2.Login.Usuario
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.facci.josesanchezarteaga.KG2.servicios
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:23:9-47
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:23:19-44
+activity#com.facci.josesanchezarteaga.KG2.ayuda
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:24:19-40
+activity#com.facci.josesanchezarteaga.KG2.Login.Login
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:25:9-49
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:25:19-46
+activity#com.facci.josesanchezarteaga.KG2.MANTENIMIENTO
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:26:19-48
+activity#com.facci.josesanchezarteaga.KG2.RESERVACIONES
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.facci.josesanchezarteaga.KG2.Consejo
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:28:9-45
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:28:19-42
+activity#com.facci.josesanchezarteaga.KG2.AtencioCliente
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:29:9-52
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:29:19-49
+activity#com.facci.josesanchezarteaga.KG2.Contacto
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:30:9-46
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:30:19-43
+activity#com.facci.josesanchezarteaga.KG2.Principal
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:31:9-47
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:31:19-44
+activity#com.facci.josesanchezarteaga.KG2.VisorImagen
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:32:9-49
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:32:19-46
+activity#com.facci.josesanchezarteaga.KG2.DetalleAutos
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:33:19-47
+activity#com.facci.josesanchezarteaga.KG2.Detalls
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:34:9-45
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:34:19-42
+activity#com.facci.josesanchezarteaga.KG2.vist2
+ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:35:9-43
+	android:name
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml:35:19-40
+uses-sdk
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\e00366f5cd5767f5c775a9dd53929047\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\e00366f5cd5767f5c775a9dd53929047\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dc0e5d0915b80256248d77e07626c258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dc0e5d0915b80256248d77e07626c258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\959fb080cd3fa55a1c898174591621a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\959fb080cd3fa55a1c898174591621a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f1d915a572c6452f86aabcd26cfa3c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f1d915a572c6452f86aabcd26cfa3c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1b1f3fd9cbeb7ef3e89235eac2f83789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1b1f3fd9cbeb7ef3e89235eac2f83789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5fe5af8e2038e6f1e72abdaecbdfc33b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5fe5af8e2038e6f1e72abdaecbdfc33b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aa475a7b2966b945e58a59dfb9cc85a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aa475a7b2966b945e58a59dfb9cc85a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f9f70e56a3b992a54a2cc2c4136711d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f9f70e56a3b992a54a2cc2c4136711d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2aa64925494af14aa1826c2ab8d2743e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2aa64925494af14aa1826c2ab8d2743e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3001a4235bad38b637b36a070595c752\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3001a4235bad38b637b36a070595c752\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f7099d726efa486c46014436ba720913\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f7099d726efa486c46014436ba720913\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d3db56afd32773243cb53938edde2ddb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d3db56afd32773243cb53938edde2ddb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71248e04ae5cf37a7ab429ff04492c24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\daniel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71248e04ae5cf37a7ab429ff04492c24\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\daniel\Desktop\App Full-20181218T005248Z-001\App Full\KG.2\app\src\main\AndroidManifest.xml

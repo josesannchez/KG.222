@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context=".Login.Registro">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="310dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginTop="20dp"
+                android:text="Registro de usuario"
+
+                android:textColor="@android:color/background_dark"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_gravity="center"
+                android:textSize="25dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="Cedula"
+                android:textColor="@android:color/background_dark"
+
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/EditT_cedula"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="ingrese cedula"
+                android:inputType="textCapWords"
+
+                android:maxLength="45"
+                android:minEms="45" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Si termina en k, reemplace por un 1"
+                android:textSize="17sp"
+
+                android:textStyle="italic" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="Nombre:"
+                android:textColor="@android:color/background_dark"
+
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/EditT_nombre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/nombre"
+                android:inputType="textCapWords"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="Apellido"
+                android:textColor="@android:color/background_dark"
+
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/EditT_apellido"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/apellido"
+                android:inputType="text|textCapWords"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="Contraseña:"
+                android:textColor="@android:color/background_dark"
+
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/EditT_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/pasword"
+                android:inputType="text"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="Repita contraseña"
+                android:textColor="@android:color/background_dark"
+
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/EditT_secreta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/pasword"
+
+                android:inputType="text|textCapWords" />
+
+
+            <ProgressBar
+                android:id="@+id/loading"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="98dp"
+                android:layout_height="88dp"
+                android:layout_above="@+id/btnRegistrar"
+                android:layout_marginTop="53dp"
+                android:layout_marginBottom="-138dp"
+                android:visibility="gone" />
+            <Button
+                android:id="@+id/Btn_registrar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginBottom="20dp"
+                android:background="@color/colorAccent"
+                android:textColor="@android:color/white"
+                android:text="Registrarse" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

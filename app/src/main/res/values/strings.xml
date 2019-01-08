@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">KG.2</string>
+    <string name="registro">Registro</string>
+    <string name="rut">Ingrese rut estudiante</string>
+    <string name="pasword">Ingrese contraseña</string>
+    <string name="nombre">Ingrese nombre</string>
+    <string name="apellido">Ingrese apellido</string>
+    <string name="erro_campo_obligario">campo obligario</string>
+    <string name="error_campo_numerico">campo numerico</string>
+    <string name="error_valor_0_y_99">valor entre 0 y 99</string>
+    <string name="cantidad_caracteres_8">cantidad caracteres 8</string>
+
+    <string name="NC">ingrese su numero celular</string>
+    <string name="r">registrase</string>
+    <string name="s">Siguiente</string>
+    <string name="res">Reservaciones</string>
+    <string name="man">Mantenimiento</string>
+    <string name="vol">Atras</string>
+    <string name="SAL">SALIR</string>
+    <string name="mod">Modelos de autos</string>
+    <string name="ate">Atencio al cliente</string>
+    <string name="consejo">consejo</string>
+    <string name="contc">contactos</string>
+    <string name="NOMBRE">INGRESE NOMBRES Y APELLIDOS</string>
+    <string name="CEDULA">INGRESE CEDULA</string>
+    <string name="CORREO">INGRESE CORREO</string>
+    <string name="datop">DATOS PERSONALES</string>
+    <string name="NinSA">NINSA</string>
+    <string name="MW">MW</string>
+    <string name="FOR">ayuda</string>
+    <string name="CHEV">servicios</string>
+    <string name="REDUCS">REDUSCA LA VELOCIDAD</string>
+    <string name="NOVEVA">EVITAR CONDUCIR CON BORRACHO</string>
+    <string name="J">JOSESANCHEZ@GMAIL.COM</string>
+    <string name="G">GILS@HOTAMIL.COM</string>
+    <string name="Z">ANGEL@HOTMIAL.COM</string>
+    <string name="A">ARGA@HOTMAIL.COM</string>
+    <string name="VALIDAR">CONFIRMA  REGISTRO</string>
+    <string name="HORA">HORA Y DIA DE RESERVACION</string>
+    <string name="TIEMPO">Nombre del cliente</string>
+    <string name="asss">Nombres</string>
+    <string name="aacc">reclamos dia y hora</string>
+    <string name="CHAS"> HACEMOS MANTENIMIENTO DE CHASIS</string>
+    <string name="MOTOR">HACEMOS MANTENIMIENTO DE MOTOR</string>
+    <string name="CARROSA">ARREGLAMOS CARROSAS</string>
+
+</resources>
+

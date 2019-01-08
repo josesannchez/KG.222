@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Contacto">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Contactos"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="133dp"
+            android:layout_height="156dp"
+            android:src="@drawable/usuarios"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="Jose sanchez\nEstudiante de la carrera de ingenieria de sistema\njose1996san@t.com"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="133dp"
+            android:layout_height="156dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/usuarios" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="b\
+Estudiante de la carrera de ingenieria de sistema\
+correo"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="133dp"
+            android:layout_height="156dp"
+            android:src="@drawable/usuarios"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="\nEstudiante de la carrera de ingenieria de sistema\ncorreo"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="133dp"
+            android:layout_height="156dp"
+            android:src="@drawable/usuarios"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="\nEstudiante de la carrera de ingenieria de sistema\ncorreo"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="133dp"
+            android:layout_height="156dp"
+            android:src="@drawable/usuarios"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="\nEstudiante de la carrera de ingenieria de sistema\ncorreo"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="133dp"
+            android:layout_height="156dp"
+            android:src="@drawable/usuarios"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="\nEstudiante de la carrera de ingenieria de sistema\ncorreo"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+</LinearLayout>
+

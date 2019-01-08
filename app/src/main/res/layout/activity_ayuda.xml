@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ayuda">
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="142dp"
+        android:text="@string/FOR"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/button6CONSEJO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/consejo" />
+
+    <Button
+        android:id="@+id/button7Contacto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contc" />
+</LinearLayout>

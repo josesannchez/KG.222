@@ -5,11 +5,15 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="23"
         android:targetSdkVersion="27" />
 
     <uses-permission android:name="android.permission.INTERNET" />
-
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
     <application
         android:allowBackup="true"
         android:debuggable="true"
@@ -19,7 +23,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.facci.josesanchezarteaga.KG2.MainActivity" >
+        <activity android:name="com.facci.josesanchezarteaga.KG2.MainActivity" />
+        <activity android:name="com.facci.josesanchezarteaga.KG2.SplashsCreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,19 +32,12 @@
             </intent-filter>
         </activity>
         <activity android:name="com.facci.josesanchezarteaga.KG2.Login.Registro" />
-        <activity android:name="com.facci.josesanchezarteaga.KG2.Login.Usuario" />
-        <activity android:name="com.facci.josesanchezarteaga.KG2.servicios" />
-        <activity android:name="com.facci.josesanchezarteaga.KG2.ayuda" />
         <activity android:name="com.facci.josesanchezarteaga.KG2.Login.Login" />
-        <activity android:name="com.facci.josesanchezarteaga.KG2.MANTENIMIENTO" />
+        <activity android:name="com.facci.josesanchezarteaga.KG2.Servicios" />
+        <activity android:name="com.facci.josesanchezarteaga.KG2.Login.Vehiculo" />
         <activity android:name="com.facci.josesanchezarteaga.KG2.RESERVACIONES" />
         <activity android:name="com.facci.josesanchezarteaga.KG2.Consejo" />
-        <activity android:name="com.facci.josesanchezarteaga.KG2.AtencioCliente" />
         <activity android:name="com.facci.josesanchezarteaga.KG2.Contacto" />
-        <activity android:name="com.facci.josesanchezarteaga.KG2.Principal" />
-        <activity android:name="com.facci.josesanchezarteaga.KG2.VisorImagen" />
-        <activity android:name="com.facci.josesanchezarteaga.KG2.DetalleAutos" />
-        <activity android:name="com.facci.josesanchezarteaga.KG2.Detalls" />
         <activity android:name="com.facci.josesanchezarteaga.KG2.vist2" />
 
         <provider
